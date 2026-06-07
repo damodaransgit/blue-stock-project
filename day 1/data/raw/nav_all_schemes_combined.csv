@@ -3091,6 +3091,8 @@ date,nav,scheme_code,scheme_name,fund_house,category
 2026-05-31,193.6836,125497,HDFC_Top_100,SBI Mutual Fund,Equity Scheme - Small Cap Fund
 2026-06-01,192.3195,125497,HDFC_Top_100,SBI Mutual Fund,Equity Scheme - Small Cap Fund
 2026-06-02,193.1295,125497,HDFC_Top_100,SBI Mutual Fund,Equity Scheme - Small Cap Fund
+2026-06-03,194.081,125497,HDFC_Top_100,SBI Mutual Fund,Equity Scheme - Small Cap Fund
+2026-06-04,194.522,125497,HDFC_Top_100,SBI Mutual Fund,Equity Scheme - Small Cap Fund
 2013-01-02,103.0059,119551,SBI_Bluechip,Aditya Birla Sun Life Mutual Fund,Debt Scheme - Banking and PSU Fund
 2013-01-03,103.0306,119551,SBI_Bluechip,Aditya Birla Sun Life Mutual Fund,Debt Scheme - Banking and PSU Fund
 2013-01-04,103.0619,119551,SBI_Bluechip,Aditya Birla Sun Life Mutual Fund,Debt Scheme - Banking and PSU Fund
@@ -6328,6 +6330,8 @@ date,nav,scheme_code,scheme_name,fund_house,category
 2026-05-29,104.657,119551,SBI_Bluechip,Aditya Birla Sun Life Mutual Fund,Debt Scheme - Banking and PSU Fund
 2026-06-01,104.7025,119551,SBI_Bluechip,Aditya Birla Sun Life Mutual Fund,Debt Scheme - Banking and PSU Fund
 2026-06-02,104.7663,119551,SBI_Bluechip,Aditya Birla Sun Life Mutual Fund,Debt Scheme - Banking and PSU Fund
+2026-06-03,104.7496,119551,SBI_Bluechip,Aditya Birla Sun Life Mutual Fund,Debt Scheme - Banking and PSU Fund
+2026-06-04,104.8095,119551,SBI_Bluechip,Aditya Birla Sun Life Mutual Fund,Debt Scheme - Banking and PSU Fund
 2013-01-02,15.0253,120503,ICICI_Bluechip,Axis Mutual Fund,Equity Scheme - ELSS
 2013-01-03,15.0737,120503,ICICI_Bluechip,Axis Mutual Fund,Equity Scheme - ELSS
 2013-01-04,15.0702,120503,ICICI_Bluechip,Axis Mutual Fund,Equity Scheme - ELSS
@@ -9636,6 +9640,8 @@ date,nav,scheme_code,scheme_name,fund_house,category
 2026-05-31,104.3083,120503,ICICI_Bluechip,Axis Mutual Fund,Equity Scheme - ELSS
 2026-06-01,103.0948,120503,ICICI_Bluechip,Axis Mutual Fund,Equity Scheme - ELSS
 2026-06-02,103.5959,120503,ICICI_Bluechip,Axis Mutual Fund,Equity Scheme - ELSS
+2026-06-03,103.4809,120503,ICICI_Bluechip,Axis Mutual Fund,Equity Scheme - ELSS
+2026-06-04,103.6421,120503,ICICI_Bluechip,Axis Mutual Fund,Equity Scheme - ELSS
 2013-01-02,14.6967,118632,Nippon_Large_Cap,Nippon India Mutual Fund,Equity Scheme - Large Cap Fund
 2013-01-03,14.7305,118632,Nippon_Large_Cap,Nippon India Mutual Fund,Equity Scheme - Large Cap Fund
 2013-01-04,14.8037,118632,Nippon_Large_Cap,Nippon India Mutual Fund,Equity Scheme - Large Cap Fund
@@ -12935,6 +12941,8 @@ date,nav,scheme_code,scheme_name,fund_house,category
 2026-05-29,98.4656,118632,Nippon_Large_Cap,Nippon India Mutual Fund,Equity Scheme - Large Cap Fund
 2026-06-01,97.1944,118632,Nippon_Large_Cap,Nippon India Mutual Fund,Equity Scheme - Large Cap Fund
 2026-06-02,97.4783,118632,Nippon_Large_Cap,Nippon India Mutual Fund,Equity Scheme - Large Cap Fund
+2026-06-03,97.2167,118632,Nippon_Large_Cap,Nippon India Mutual Fund,Equity Scheme - Large Cap Fund
+2026-06-04,97.2621,118632,Nippon_Large_Cap,Nippon India Mutual Fund,Equity Scheme - Large Cap Fund
 2012-12-31,23.992,119092,Axis_Bluechip,HDFC Mutual Fund,Debt Scheme - Money Market Fund
 2013-01-01,23.9979,119092,Axis_Bluechip,HDFC Mutual Fund,Debt Scheme - Money Market Fund
 2013-01-02,24.0036,119092,Axis_Bluechip,HDFC Mutual Fund,Debt Scheme - Money Market Fund
@@ -16501,6 +16509,8 @@ date,nav,scheme_code,scheme_name,fund_house,category
 2026-05-29,6151.1139,119092,Axis_Bluechip,HDFC Mutual Fund,Debt Scheme - Money Market Fund
 2026-06-01,6156.7532,119092,Axis_Bluechip,HDFC Mutual Fund,Debt Scheme - Money Market Fund
 2026-06-02,6158.9665,119092,Axis_Bluechip,HDFC Mutual Fund,Debt Scheme - Money Market Fund
+2026-06-03,6159.9626,119092,Axis_Bluechip,HDFC Mutual Fund,Debt Scheme - Money Market Fund
+2026-06-04,6160.9434,119092,Axis_Bluechip,HDFC Mutual Fund,Debt Scheme - Money Market Fund
 2013-01-07,30.6076,120841,Kotak_Bluechip,quant Mutual Fund,Equity Scheme - Mid Cap Fund
 2013-01-08,30.6239,120841,Kotak_Bluechip,quant Mutual Fund,Equity Scheme - Mid Cap Fund
 2013-01-09,30.6492,120841,Kotak_Bluechip,quant Mutual Fund,Equity Scheme - Mid Cap Fund
@@ -19803,3 +19813,5 @@ date,nav,scheme_code,scheme_name,fund_house,category
 2026-05-29,248.6673,120841,Kotak_Bluechip,quant Mutual Fund,Equity Scheme - Mid Cap Fund
 2026-06-01,246.9814,120841,Kotak_Bluechip,quant Mutual Fund,Equity Scheme - Mid Cap Fund
 2026-06-02,246.8566,120841,Kotak_Bluechip,quant Mutual Fund,Equity Scheme - Mid Cap Fund
+2026-06-03,245.6593,120841,Kotak_Bluechip,quant Mutual Fund,Equity Scheme - Mid Cap Fund
+2026-06-04,246.0784,120841,Kotak_Bluechip,quant Mutual Fund,Equity Scheme - Mid Cap Fund
