@@ -66,7 +66,7 @@ def clean_nav_history():
         return group.reset_index()
 
     # Apply the filling function to every single mutual fund independently
-    df = df.groupby('amfi_code').apply(fill_dates).reset_index(drop=True)
+    df = df.groupby('amfi_code').apply(fill_dates).reset_index(level=0, drop=False)
     
     # 6. Validate NAV > 0
     # Why: A mutual fund cannot have a price of 0 or a negative price. That's a data error.
