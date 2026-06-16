@@ -46,7 +46,8 @@ SCHEMES = {
 API_BASE = "https://api.mfapi.in/mf"
 
 # Where to save the CSV files
-OUTPUT_DIR = os.path.join("data", "raw")
+ROOT_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
+OUTPUT_DIR = os.path.join(ROOT_DIR, "data", "raw")
 
 
 def fetch_nav_data(scheme_code, scheme_name):

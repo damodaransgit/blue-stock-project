@@ -7,5 +7,4 @@ sqlalchemy
 requests
 scipy
 jupyter
-streamlit
 openpyxl

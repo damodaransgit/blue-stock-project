@@ -1,0 +1,8 @@
+# Ignore report generation scripts (as per your request)
+scripts/generate_report.py
+scripts/generate_presentation.py
+
+# Standard Python ignores
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
