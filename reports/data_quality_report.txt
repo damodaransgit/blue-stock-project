@@ -1,0 +1,44 @@
+======================================================================
+DATA QUALITY REPORT -- Blue Stock Internship Project
+Generated: 2026-06-16 12:52:04
+======================================================================
+
+DATASET SUMMARY
+----------------------------------------------------------------------
+File                                           Rows   Cols   Issues
+----------------------------------------------------------------------
+01_fund_master.csv                               40     15        0
+02_nav_history.csv                           46,000      3        0
+03_aum_by_fund_house.csv                         90      5        0
+04_monthly_sip_inflows.csv                       48      6        1
+05_category_inflows.csv                         144      3        0
+06_industry_folio_count.csv                      21      6        0
+07_scheme_performance.csv                        40     19        0
+08_investor_transactions.csv                 32,778     13        0
+09_portfolio_holdings.csv                       322      8        0
+10_benchmark_indices.csv                      8,050      3        0
+nav_Axis_Bluechip.csv                         3,569      6        0
+nav_HDFC_Top_100.csv                          3,095      6        0
+nav_ICICI_Bluechip.csv                        3,311      6        0
+nav_Kotak_Bluechip.csv                        3,305      6        0
+nav_Nippon_Large_Cap.csv                      3,302      6        0
+nav_SBI_Bluechip.csv                          3,240      6        0
+nav_all_schemes_combined.csv                 19,822      6        0
+
+
+ANOMALIES DETECTED
+----------------------------------------------------------------------
+
+04_monthly_sip_inflows.csv:
+  [!] Missing values in 'yoy_growth_pct': 12 (25.0%)
+
+
+AMFI CODE VALIDATION
+----------------------------------------------------------------------
+  Matched codes:            40
+  Missing from NAV data:    0
+  Extra in NAV data:        0
+  Match rate:               100.0%
+
+======================================================================
+END OF REPORT
